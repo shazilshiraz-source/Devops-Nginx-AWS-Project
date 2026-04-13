@@ -9,6 +9,7 @@ The application is containerized using Docker and served through an Nginx web se
 
 ## Technologies Used
 
+- AWS VPC
 - AWS EC2
 - AWS Route53
 - Docker
