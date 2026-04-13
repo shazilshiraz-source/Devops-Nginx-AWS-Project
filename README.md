@@ -100,7 +100,7 @@ http://dockerized-nginx-app.iac.ebricks-inc.com
 
 ---
 ## Architecture Diagram
-![Architecture Diagram](AWS Dockerized Nginx Architecture.png)
+![Architecture Diagram](## AWS Dockerized Nginx Architecture.png)
 
 ## Result
 
