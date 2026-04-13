@@ -99,6 +99,8 @@ http://dockerized-nginx-app.iac.ebricks-inc.com
 ```
 
 ---
+## Architecture Diagram
+![Architecture Diagram](https://paradigmnetworks.atlassian.net/wiki/x/AQBJR)
 
 ## Result
 
