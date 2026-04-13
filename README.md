@@ -99,7 +99,8 @@ http://dockerized-nginx-app.iac.ebricks-inc.com
 ```
 
 ---
-
+## Architecture Diagram
+![Architecture Diagram](https://github.com/shazilshiraz-source/Devops-Nginx-AWS-Project/blob/main/AWS%20Dockerized%20Nginx%20Architecture.png)
 
 ## Result
 
